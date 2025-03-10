@@ -1,4 +1,4 @@
-# internship
+#Brainwave_Matrix_Intern
 my first intership project at brainwave matrix solution.
 ATM Management System (C++ Project)
 📌 Overview
