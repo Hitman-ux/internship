@@ -1,2 +1,2 @@
 # internship
-my first intership project at brainwave matrix solution
+my first intership project at brainwave matrix solution.
